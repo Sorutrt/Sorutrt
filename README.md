@@ -21,5 +21,10 @@ Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorutrt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 ![Sorutrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorutrt&show_icons=true&theme=dracula)
 
+### PC Specs
+#### Main Desktop
+Xeon E5-2670
+GTX 1650
+
 ## Listening to
   <a href="https://last.fm/user/sorutrt" target="_blank"><img src="https://toru.kio.dev/api/v1/sorutrt?theme=dracula&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
