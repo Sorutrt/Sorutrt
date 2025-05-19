@@ -25,3 +25,8 @@ Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/
 #### Main Desktop
 Xeon E5-2670
 GTX 1650
+
+#### Main Laptop
+ThinkPad E14 Gen 6 AMD
+Ryzen5 3575U
+32GB RAM
