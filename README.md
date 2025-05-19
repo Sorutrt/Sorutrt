@@ -25,6 +25,3 @@ Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/
 #### Main Desktop
 Xeon E5-2670
 GTX 1650
-
-## Listening to
-  <a href="https://last.fm/user/sorutrt" target="_blank"><img src="https://toru.kio.dev/api/v1/sorutrt?theme=dracula&border_radius=5" alt="Last.fm Activity" width="380px" /></a>
