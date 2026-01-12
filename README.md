@@ -23,7 +23,7 @@ Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/
 
 ### PC Specs
 #### Main Desktop
-Xeon E5-2670
+Core i5 9400
 GTX 1650
 
 #### Main Laptop
