@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" width=16px alt="neovim"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=16px alt="vscode">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorutrt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 ![Sorutrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorutrt&show_icons=true&theme=dracula)
 
 ### PC Specs
