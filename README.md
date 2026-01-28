@@ -15,17 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Editor: <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" width=16px alt="neovim"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=16px alt="vscode">
 
-
-![Sorutrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sorutrt&show_icons=true&theme=dracula)
-
-### PC Specs
-#### Main Desktop
-Core i5 9400
-GTX 1650
-
-#### Main Laptop
-ThinkPad E14 Gen 6 AMD
-Ryzen5 3575U
-32GB RAM
